@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyButton</string>
+    <string name="main_btntext01">Button 01</string>
+    <string name="main_btntext02">Button 02</string>
+    <string name="main_btntext03">Button 03</string>
+    <string name="main_btntext04">Button 04</string>
+    <string name="main_btntext05">Button 05</string>
+    <string name="main_btntext07">Button 07</string>
+    <string name="main_btntext06">Button 06</string>
+    <string name="main_btntext08">Button 08</string>
+    <string name="main_btntext09">Button 09</string>
+    <string name="main_btntext10">Button 10</string>
+    <string name="main_btntext11">Button 11</string>
+    <string name="main_btntext12">Button 12</string>
+    <string name="main_btntext13">Button 13</string>
+    <string name="main_btntext14">Button 14</string>
+    <string name="main_btntext15">Button 15</string>
+    <string name="main_btntext16">Button 16</string>
+    <string name="main_btntext17">Button 17</string>
+</resources>
