@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="color_pokemon">
+        <item>@color/agua</item>
+        <item>@color/fuego</item>
+        <item>@color/hielo</item>
+        <item>@color/dragon</item>
+        <item>@color/fantasma</item>
+        <item>@color/hada</item>
+        <item>@color/electrico</item>
+        <item>@color/bicho</item>
+    </integer-array>
+</resources>

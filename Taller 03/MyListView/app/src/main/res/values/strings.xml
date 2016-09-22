@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="alert_main_titulo">Aviso</string>
+    <string name="alert_main_message">¿Desea evolucionarlo?</string>
+    <string name="alert_main_positive">Si</string>
+    <string name="alert_main_negative">No</string>
+</resources>

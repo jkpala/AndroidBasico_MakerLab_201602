@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyLoggin</string>
+    <string name="hint_Nombre">Correo</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="text_Iniciar">Iniciar Sesión</string>
+    <string name="text_Registrar">Registrar</string>
+    <string name="text_Recuperar">Recuperar Contraseña</string>
+</resources>
