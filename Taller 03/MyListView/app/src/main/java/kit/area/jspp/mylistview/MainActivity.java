@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         mListPokemon.add(new Pokemon("Butterfree","BICHO",R.drawable.ic_butterfree,R.color.bicho));
         mListPokemon.add(new Pokemon("Dragonite","DRAGON",R.drawable.ic_dragonite,R.color.dragon));
         mListPokemon.add(new Pokemon("Raichu","ELECTRICO",R.drawable.ic_raichu,R.color.electrico));
-        mListPokemon.add(new Pokemon("Haunter","FANTASMA",R.drawable.ic_clefable,R.color.fantasma));
+        mListPokemon.add(new Pokemon("Haunter","FANTASMA",R.drawable.ic_dragonite,R.color.fantasma));
         mListPokemon.add(new Pokemon("Charizard","FUEGO",R.drawable.ic_charizard,R.color.fuego));
         mListPokemon.add(new Pokemon("Clefable","HADA",R.drawable.ic_clefable,R.color.hada));
         mListPokemon.add(new Pokemon("Jynx","HIELO",R.drawable.ic_jynx,R.color.hielo));
